@@ -1,2 +1,2 @@
 # Script
-This ill contain our shell scripts
+This will contain our shell scripts 
